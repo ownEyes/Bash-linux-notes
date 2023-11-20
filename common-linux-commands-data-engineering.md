@@ -54,3 +54,9 @@ Counting lines
 ## Learning from Dockerfiles
 
 * [Explore Python Dockerhub](https://hub.docker.com/_/python)
+
+## Bash Scripts
+
+* [bash-scripts](https://github.com/noahgift/bash-scripts)
+* [bash-control-flow](https://github.com/noahgift/bash-control-flow)
+* [bash-shell-variables](https://github.com/noahgift/bash-shell-variables)
